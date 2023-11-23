@@ -1,1 +1,1 @@
-# nalyze-the-IPL-project-using-SQL
+# Analyze-the-IPL-project-using-SQL
